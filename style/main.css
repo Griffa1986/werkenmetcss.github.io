@@ -1,0 +1,59 @@
+body { 
+    background-color: orange;
+}
+header {
+    background-color: yellow;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+table {
+    border: 1px solid black; 
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+th{ 
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black;
+}
+.a {
+    background-color: blue;
+    color: yellow;
+}
+.b {
+    background-color: yellow;
+    color: blue;
+}
+.c {
+    background-color: red;
+    color: green;
+}
+.d {
+    background-color: green;
+    color: red;
+}
+.e {
+    background-color: lightblue;
+    color: coral;
+}
+.f {
+    background-color: coral;
+    color: lightblue;
+}
+.g {
+    background-color: pink;
+    color: purple;
+}
+.h {
+    background-color: purple;
+    color: pink;
+}
+footer {
+    background-color: black;  
+    color: white;
+    text-align: center;
+}
